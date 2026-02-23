@@ -6,16 +6,23 @@ A data analysis project investigating potential bias in Fandango’s movie ratin
 📌 Project Overview
 
 In 2015, a public analysis revealed that Fandango’s movie ratings appeared to be inflated. This project investigates whether Fandango adjusted its rating system after the issue was exposed.
+
 The study compares Fandango movie ratings from 2015 and 2016 to identify shifts in rating distributions and determine whether rating inflation decreased.
+
 This project focuses on analyzing overall rating behavior rather than individual movies.
 
 🎯 Objectives
 
 Compare Fandango ratings from 2015 and 2016
+
 Analyze distribution patterns of ratings
+
 Compute summary statistics (mean, median, mode)
+
 Perform frequency analysis of rating classes
+
 Identify evidence of rating inflation
+
 Draw data-driven conclusions about rating system changes
 
 🛠 Tools & Technologies
