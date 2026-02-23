@@ -6,59 +6,40 @@ A data analysis project investigating potential bias in Fandango’s movie ratin
 📌 Project Overview
 
 In 2015, a public analysis revealed that Fandango’s movie ratings appeared to be inflated. This project investigates whether Fandango adjusted its rating system after the issue was exposed.
-
 The study compares Fandango movie ratings from 2015 and 2016 to identify shifts in rating distributions and determine whether rating inflation decreased.
-
 This project focuses on analyzing overall rating behavior rather than individual movies.
 
 🎯 Objectives
 
 Compare Fandango ratings from 2015 and 2016
-
 Analyze distribution patterns of ratings
-
 Compute summary statistics (mean, median, mode)
-
 Perform frequency analysis of rating classes
-
 Identify evidence of rating inflation
-
 Draw data-driven conclusions about rating system changes
 
 🛠 Tools & Technologies
 
 Python
-
-Jupyter Notebook
-
+Google Colab
 pandas
-
 matplotlib
 
 📊 Project Workflow
 
 Problem definition
-
 Data loading and cleaning
-
 Filtering relevant samples
-
 Distribution comparison
-
 Summary statistics analysis
-
 Rating frequency comparison
-
 Interpretation and conclusion
 
 📈 Key Analysis Performed
 
 Comparison of rating distributions (2015 vs 2016)
-
 Analysis of average rating differences
-
 Percentage comparison of high ratings (4.5–5 stars)
-
 Identification of rating pattern shifts
 
 📁 Repository Structure
@@ -70,6 +51,7 @@ fandango-rating-bias-analysis/
 │
 ├── Investigating_Fandango_Ratings.ipynb
 ├── README.md
+
 🔍 Key Insights
 
 The analysis evaluates whether Fandango’s rating system became more balanced after 2015 by studying changes in rating distribution patterns.
@@ -77,19 +59,13 @@ The analysis evaluates whether Fandango’s rating system became more balanced a
 💡 Skills Demonstrated
 
 Data cleaning and preprocessing
-
 Exploratory Data Analysis (EDA)
-
 Statistical comparison of independent samples
-
 Data visualization
-
 Critical thinking in bias detection
 
 🚀 Future Improvements
 
 Apply statistical hypothesis testing
-
 Perform cross-platform rating comparison (IMDb, Rotten Tomatoes)
-
 Extend analysis to additional years
