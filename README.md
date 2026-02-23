@@ -1,6 +1,8 @@
 # fandango-movie-rating-bias-analysis
 A data analysis project investigating potential bias in Fandango’s movie rating system by comparing 2015 and 2016 rating distributions using Python libraries.
+
 🎬 Fandango Rating Bias Analysis (2015 vs 2016)
+
 📌 Project Overview
 
 In 2015, a public analysis revealed that Fandango’s movie ratings appeared to be inflated. This project investigates whether Fandango adjusted its rating system after the issue was exposed.
