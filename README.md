@@ -28,7 +28,7 @@ This project focuses on analyzing overall rating behavior rather than individual
 ## 🛠 Tools & Technologies
 
 - Python  
-- Jupyter Notebook  
+- Google Colab  
 - pandas  
 - matplotlib  
 
