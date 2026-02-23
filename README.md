@@ -64,7 +64,7 @@ fandango-rating-bias-analysis/
 │   ├── fandango_score_comparison.csv
 │   ├── movie_ratings_16_17.csv
 │
-├── Investigating_Fandango_Ratings.ipynb
+├── fandango_movie_rating_bias_analysis.ipynb
 ├── README.md
 ```
 
